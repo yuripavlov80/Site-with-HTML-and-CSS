@@ -1,0 +1,110 @@
+body{
+	background-image: url(../images/background_2.png);
+	background-size: 100% 100%;
+	background-color: #808080;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	padding: 0;
+	margin: 0;
+	width: 4850px;
+}
+.grey>a{
+	position: absolute;
+	left: 6em;
+	top: 2em;
+	font-style: italic;
+}
+.grey>a>img{
+	position: absolute;
+	left: 3em;
+	bottom: 1em;
+}
+.grey{
+	width: 20vw;
+	height: 10vh;
+	background-color: #333;
+	position: fixed;
+	bottom: 0;
+	top: 0em;
+	left: 55em;
+}
+.grey>a:visited{
+	color:#FFF;
+}
+.grey>a:hover{
+	color:#FFF;
+}
+.grey>a:active{
+	color:#FFF;
+}
+.grey>a:link{
+	color:#FFF;
+	text-decoration: none;
+}
+.box{
+	width: 25vw;
+	height: 55vh;
+	background-color:#FFF;
+	display: inline-block;
+	position: relative;
+	top: 8em;
+	left: 10em;
+	bottom: 3em;
+}
+.box>a{
+	position: absolute;
+	right: 1em;
+	top: 10em;
+}
+.lastone{
+	width: 25vw;
+	height: 25vh;
+	background-color: #FF4D4D;
+	position: fixed;
+	bottom: 0em;
+	left:5em;
+	padding: 1em;
+}
+.lastonea>a{
+	display: block;
+	position: absolute;
+	font-style: italic;
+}
+.lastone>a>img{
+	position: absolute;
+	right: 12em;
+	top: 9em;
+}
+.boxone{
+	color:#BFBFBF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	margin: 2em;
+}
+.boxtwo{
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	font-size: 2em;
+	font-weight: bolder;
+	margin: 1em;
+	position: absolute;
+	top:1em;
+}
+.lastone>a:visited{
+	color:#FFF;
+}
+.lastone>a:hover{
+	color:#FFF;
+}
+.lastone>a:active{
+	color:#FFF;
+}
+.lastone>a:link{
+	color:#FFF;
+	text-decoration: none;
+}
+span{
+	position: absolute;
+	left: 9em;
+	top: 7em;
+}

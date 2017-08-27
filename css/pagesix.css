@@ -1,0 +1,116 @@
+body{
+	background-image: url(../images/background_2.png);
+	background-size: 100% 100%;
+	background-color: #808080;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.grey>a{
+	position: absolute;
+	left: 6em;
+	top: 2em;
+	font-style: italic;
+}
+.grey>a>img{
+	position: absolute;
+	left: 3em;
+	bottom: 1em;
+}
+.grey{
+	width: 20vw;
+	height: 10vh;
+	background-color: #333;
+	position: absolute;
+	top: 0em;
+	left: 20em;
+}
+.grey>a:visited{
+	color:#FFF;
+}
+.grey>a:hover{
+	color:#FFF;
+}
+.grey>a:active{
+	color:#FFF;
+}
+.grey>a:link{
+	color:#FFF;
+	text-decoration: none;
+}
+.float{
+	width: 90vw;
+	height: 40vh;
+	position: absolute;
+	right: 5em;
+	bottom: 16em;
+}
+.one{
+	width: 48vw;
+	height: 40vh;
+	background-color:#FFF;
+	float: left;
+	position: relative;
+	left: 10em;
+	font-weight: bolder;
+	font-family: Arial, sans-serif;
+}
+.two{
+	width: 42vw;
+	height: 40vh;
+	background-color:#E6E6E6;
+	float: right;
+	position: relative;
+	top: 2em;
+	right: 3em;
+	font-weight: bolder;
+}
+.one>span{
+	font-size:2em;
+	position: absolute;
+	top:1em;
+	left: 1em;
+}
+.two>span{
+	font-size:2em;
+	position: absolute;
+	top:1em;
+	left: 1em;
+	font-family: Arial, sans-serif;
+}
+.lastone{
+	width: 20vw;
+	height: 20vh;
+	background-color: #FF4D4D;
+	position: fixed;
+	bottom: 0em;
+	left: 50em;
+	padding: 1em;
+}
+.lastonea>a{
+	display: block;
+	position: absolute;
+	font-style: italic;
+}
+.lastone>a>img{
+	position: absolute;
+	right: 9em;
+	top: 8em;
+}
+.lastone>a:visited{
+	color:#FFF;
+}
+.lastone>a:hover{
+	color:#FFF;
+}
+.lastone>a:active{
+	color:#FFF;
+}
+.lastone>a:link{
+	color:#FFF;
+	text-decoration: none;
+}
+span{
+	position: absolute;
+	left: 7em;
+	top: 6em;
+}

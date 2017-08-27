@@ -1,0 +1,56 @@
+body{
+	padding: 0;
+	background-color: #000;
+}
+.dark{
+	background-color: #006600;
+	width: 90vw;
+	height:70vh;
+	position: fixed;
+	left: 10vh;
+	top: 15vh;
+}
+.white{
+	position: absolute;
+	right: 25em;
+	top: 7em;
+	text-align: center;
+}
+.bigger{
+	font-size: 1.2em;
+}
+.biggest{
+	font-size: 1.8em;
+}
+.white,.bottom{
+	color: #FFF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bolder;
+}
+.bottom{
+	position: absolute;
+	bottom: 2em;
+	left: 15em;
+}
+.bottom>.last{
+	position: absolute;
+	left: 40em;
+}
+.dark>a:visited{
+	color:#FFF;
+}
+.dark>a:hover{
+	color:#FFF;
+}
+.dark>a:active{
+	color:#FFF;
+}
+.dark>a:link{
+	color:#FFF;
+	text-decoration: none;
+}
+a{
+	position: absolute;
+	bottom: 1.5em;
+	left:35em;
+}

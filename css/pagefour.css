@@ -1,0 +1,89 @@
+body{
+	background-image: url(../images/background_2.png);
+	background-size: 100% 100%;
+	background-color: #808080;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+.grey>a{
+	position: absolute;
+	left: 6em;
+	top: 2em;
+	font-style: italic;
+}
+.grey>a>img{
+	position: absolute;
+	left: 3em;
+	bottom: 1em;
+}
+.grey{
+	width: 20vw;
+	height: 10vh;
+	background-color: #333;
+	position: absolute;
+	top: 0em;
+	left: 20em;
+}
+.grey>a:visited{
+	color:#FFF;
+}
+.grey>a:hover{
+	color:#FFF;
+}
+.grey>a:active{
+	color:#FFF;
+}
+.grey>a:link{
+	color:#FFF;
+	text-decoration: none;
+}
+.border{
+	width: 50vw;
+	height: 60vh;
+	background-color: #FFF;
+	font-size: 80px;
+	bottom:1.5em;
+	right: 4em;
+	font-family: Arial, sans-serif;
+	font-style: normal;
+	font-weight: bolder;
+	position: absolute;
+	text-align: center;
+}
+.lastone{
+	width: 20vw;
+	height: 20vh;
+	background-color: #FF4D4D;
+	position: fixed;
+	bottom: 0em;
+	left: 45em;
+	padding: 1em;
+}
+.lastonea>a{
+	display: block;
+	position: absolute;
+	font-style: italic;
+}
+.lastone>a>img{
+	position: absolute;
+	right: 9em;
+	top: 8em;
+}
+.lastone>a:visited{
+	color:#FFF;
+}
+.lastone>a:hover{
+	color:#FFF;
+}
+.lastone>a:active{
+	color:#FFF;
+}
+.lastone>a:link{
+	color:#FFF;
+	text-decoration: none;
+}
+span{
+	position: absolute;
+	left: 7em;
+	top: 6em;
+}
